@@ -1,3 +1,9 @@
 pandas
 black[jupyter]
 plotly
+pydantic
+pydantic[email]
+mysql-connector-python
+ipdb
+python-dotenv
+faker
